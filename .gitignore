@@ -1,1 +1,5 @@
 badge.txt
+__pycache__/
+
+# ignore .python-version for now
+.python-version
