@@ -8,6 +8,7 @@ rshell = "*"
 pillow = "*"
 tk = "*"
 typer = "*"
+qrcode = "*"
 
 [dev-packages]
 
